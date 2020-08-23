@@ -9,6 +9,6 @@ Also you can get all the information about that particular movie like rating, ca
 
 This website is made using Django framework in Python.
 
-URL to the website:http://3.7.171.228/
+URL to the website:http://54.211.126.110/
 
 Hosted Using AWS.
